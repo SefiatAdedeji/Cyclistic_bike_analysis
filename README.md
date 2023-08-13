@@ -1,6 +1,5 @@
 # Cyclistic Bike Share Analysis 
-
-![Cyclistic Bike Share](https://github.com/SefiatAdedeji/Cyclistic_bike_analysis/assets/93763604/45829d32-bd84-485f-bd17-66b3286376a7)
+<img src="https://github.com/SefiatAdedeji/Cyclistic_bike_analysis/assets/93763604/45829d32-bd84-485f-bd17-66b3286376a7" alt="Cyclistic Bike Share" width="900">
 
 Welcome to the Cyclistic Bike Share Analysis repository! This project is part of the Google Data Analytics Professional Certificate and focuses on analyzing bike share data to derive valuable insights for Cyclistic's marketing strategy.
 
